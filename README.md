@@ -1,4 +1,6 @@
 # WebRack
+
+(Not secured, no login/etc)
 Python+Flask, Directory Server/Web.
 
 Will serve directories if no index.html found to serve via modules path.
